@@ -64,16 +64,16 @@ pip install -r requirements.txt
 
 ##  Results & Outputs
 
-### - System Architecture
+### 1. System Architecture
 ![System Architecture](results/system_architecture.png)
 
-### - Camera Calibration
+### 2. Camera Calibration
 ![Chessboard Calibration](results/chessboard_calibration.png)
 
-### - ArUco Markers
+### 3. ArUco Markers
 ![ArUco Markers](results/aruco_markers.png)
 
-### - Real-time Measurement
+### 4. Real-time Measurement
 ![Real-time Demo](results/real_time_demo.png)
 
 ---
