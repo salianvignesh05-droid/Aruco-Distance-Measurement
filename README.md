@@ -5,13 +5,13 @@ The system leverages **OpenCV**, **camera calibration**, and **ArUco marker dete
 
 ---
 
-## 🚀 Features
-- ✅ Camera calibration using chessboard images  
-- ✅ Generation of custom ArUco markers (IDs 23, 24, 25)  
-- ✅ Real-time detection of ArUco markers from live camera feed  
-- ✅ Calculation of distance (in millimeters) between nose and jaw markers  
-- ✅ Visualization with annotated distance display  
-- ✅ Results stored as images and graphs  
+##  Features
+-  Camera calibration using chessboard images  
+-  Generation of custom ArUco markers (IDs 23, 24, 25)  
+-  Real-time detection of ArUco markers from live camera feed  
+-  Calculation of distance (in millimeters) between nose and jaw markers  
+-  Visualization with annotated distance display  
+-  Results stored as images and graphs  
 
 ---
 
@@ -35,18 +35,18 @@ Aruco-Distance-Measurement/
 
 ## 🛠️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/salianvignesh05-droid/Aruco-Distance-Measurement.git
 cd Aruco-Distance-Measurement
 ```
 
-### 2️⃣ Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run the Modules
+### 3. Run the Modules
 - **Calibrate the Camera:**
   ```bash
   python calibration.py
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Results & Outputs
+##  Results & Outputs
 
 ### 🔹 System Architecture
 ![System Architecture](results/system_architecture.png)
