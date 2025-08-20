@@ -15,7 +15,7 @@ The system leverages **OpenCV**, **camera calibration**, and **ArUco marker dete
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 Aruco-Distance-Measurement/
 │── calibration.py # Camera calibration using chessboard images
@@ -33,7 +33,7 @@ Aruco-Distance-Measurement/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -64,21 +64,21 @@ pip install -r requirements.txt
 
 ##  Results & Outputs
 
-### 🔹 System Architecture
+### - System Architecture
 ![System Architecture](results/system_architecture.png)
 
-### 🔹 Camera Calibration
+### - Camera Calibration
 ![Chessboard Calibration](results/chessboard_calibration.png)
 
-### 🔹 ArUco Markers
+### - ArUco Markers
 ![ArUco Markers](results/aruco_markers.png)
 
-### 🔹 Real-time Measurement
+### - Real-time Measurement
 ![Real-time Demo](results/real_time_demo.png)
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
